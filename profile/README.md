@@ -13,7 +13,7 @@ This page is currently under construction and will change over time so be sure t
 
 We are working to setup GitHub sponsors for the organizaiton. However, if you wish to help contribute you can go to the following places:
  - [PWRxPSYCHO Sponsor Dashboard.](https://github.com/PWRxPSYCHO) - PWRxPSYCHO is the owner and lead developer of Script Tactics.
- - [Patreon](patreon.com/script_tactics) - We are working to get benefits created for you! 
+ - [Patreon](https://patreon.com/script_tactics) - We are working to get benefits created for you! 
 
 <!--
 
