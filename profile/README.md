@@ -1,4 +1,19 @@
-## Hi there 👋
+## SCRIPT TACTICS
+
+Here at Script Tactics we provide software tips and hardware skills.
+Our goal is to develop a more resilient and knowledgeable world, while also contributing to the FOSS community.
+
+Check out some of the repositories here.
+ - TAK server guides
+ - [Meshtastic](https://github.com/ScriptTactics/Meshtastic-Android)
+ - [ChatGPT](https://github.com/ScriptTactics/Discord-ChatGPT)
+ - and more
+
+This page is currently under construction and will change over time so be sure to check back periodocially!
+
+We are working to setup GitHub sponsors for the organizaiton. However, if you wish to help contribute you can go to the following places:
+ - [PWRxPSYCHO](https://github.com/PWRxPSYCHO) - Sponsor Dashboard PWRxPSYCHO is the owner and lead developer of Script Tactics.
+ - [Patreon](patreon.com/script_tactics) - We are working to get benefits created for you! 
 
 <!--
 
