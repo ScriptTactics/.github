@@ -1,13 +1,10 @@
-<h1 align="center">Script Tactics</h1>
+<h1 align="center"><a><img src="https://github.com/ScriptTactics/.github/assets/32745243/2c036a43-1ada-4d7d-be36-49f21bd3ee6d"></h1>
 <h3 align="center">Creating a more resilient and knowledgable world.</h3>
 
 <div id="badges" align="center">
   <a href="patreon-url">
    <a href="https://patreon.com/script_tactics"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dscript_tactics%26type%3Dpatrons&style=for-the-badge" alt="Support me on Patreon" /></a>
   </a>
-</div>
-<div id="logo" align="center">
-<a><img src="https://avatars.githubusercontent.com/u/90285633?s=400&u=15b09fef4f26eb262fca7b531b42e27a6a32546b&v=4">
 </div>
 
 
