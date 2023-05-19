@@ -4,6 +4,9 @@
 <div id="badges" align="center">
   <a href="patreon-url">
    <a href="https://patreon.com/script_tactics"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dscript_tactics%26type%3Dpatrons&style=for-the-badge" alt="Support me on Patreon" /></a>
+    <a href="https://www.youtube.com/@Script_Tactics"><img src="https://img.shields.io/youtube/channel/subscribers/UCK1-9j-y2C8nd83gqXEx4qA?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube" alt="YouTube Subscribers"/></a>
+    <a href="https://github.com/ScriptTactics"><img src="https://img.shields.io/github/stars/ScriptTactics?logo=github&style=for-the-badge" alt="GitHub Stars"/></a>
+    <a href="https://github.com/ScriptTactics"><img src="https://img.shields.io/github/followers/ScriptTactics?logo=GitHub&style=for-the-badge" alt="GitHub Followers"/></a>
   </a>
 </div>
 
