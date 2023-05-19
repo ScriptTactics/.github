@@ -18,7 +18,7 @@ Script Tactics was founded under the premise that knowledge is the most powerful
 # Repos
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScriptTactics&repo=tak-server-rpm-installer&theme=transparent)](https://github.com/ScriptTactics/tak-server-rpm-installer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScriptTactics&repo=InfoDocs&theme=transparent)](https://github.com/ScriptTactics/InfoDocs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScriptTactics&repo=ScriptTactics.github.io&theme=transparent)](https://github.com/ScriptTactics/ScriptTactics.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScriptTactics&repo=Meshtastic-Android&theme=transparent)](https://github.com/ScriptTactics/Meshtastic-Android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScriptTactics&repo=Game-News&theme=transparent)](https://github.com/ScriptTactics/Game-News)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScriptTactics&repo=Discord-ChatGPT&theme=transparent)](https://github.com/ScriptTactics/Discord-ChatGPT)
