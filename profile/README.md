@@ -1,5 +1,5 @@
 <h1 align="center"><a><img src="https://github.com/ScriptTactics/.github/assets/32745243/2c036a43-1ada-4d7d-be36-49f21bd3ee6d"></h1>
-<h3 align="center">Creating a more resilient and knowledgable world.</h3>
+<h3 align="center">Creating a more resilient and knowledgeable world.</h3>
 
 <div id="badges" align="center">
   <a href="patreon-url">
